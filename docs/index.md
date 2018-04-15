@@ -1,4 +1,4 @@
-﻿siddhi-execution-filterwords
+siddhi-execution-filterwords
 ======================================
 
 
